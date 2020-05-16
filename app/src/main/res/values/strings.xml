@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NavigationDrawerApplication</string>
+    <string name="navOpen">Nav Open</string>
+    <string name="navClosed">Nav Closed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wapda">WAPDA</string>
+    <string name="gas">GAS</string>
+    <string name="ptcl">PTCL</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="help">Help</string>
+    <string name="https_psopk_com">https://psopk.com/</string>
+    <string name="https_www_ptcl_com_pk">https://www.ptcl.com.pk</string>
+    <string name="welcome_to_the_navigaton_drawer_app">Welcome to the navigaton drawer app!</string>
+</resources>

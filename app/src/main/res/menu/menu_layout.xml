@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item1"
+            android:icon="@drawable/wapda"
+            android:title="@string/wapda" />
+        <item
+            android:id="@+id/item2"
+            android:icon="@drawable/gas"
+            android:title="@string/gas" />
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/ptcl"
+            android:title="@string/ptcl" />
+
+    </group>
+
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share"
+                android:title="@string/share" />
+
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/help"
+                android:title="@string/help" />
+        </menu>
+    </item>
+
+
+
+</menu>
